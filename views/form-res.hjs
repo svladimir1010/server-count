@@ -1,0 +1,2 @@
+<link rel='stylesheet' href='/stylesheets/style.css' />
+<h2> Факториал числа {{num}}: </h2><br> <h1 class="result">{{result}}</h1>
